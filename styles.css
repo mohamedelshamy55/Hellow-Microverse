@@ -1,9 +1,11 @@
 /* stylesheet */
+
 .header-tittle {
-font-size: 18pt;  
-color: green;
+  font-size: 18pt;  
+  color: green;
 }
+
 .body-tittle{
-font-size: 10pt;
-color: red;
+  font-size: 10pt;
+  color: red;
 }
